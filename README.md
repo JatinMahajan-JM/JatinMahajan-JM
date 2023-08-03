@@ -10,6 +10,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JatinMahajan-JM&theme=github-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
+### :fire: Programming Languages :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinMahajan-JM)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JatinMahajan-JM/JatinMahajan-JM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
