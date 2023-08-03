@@ -10,6 +10,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JatinMahajan-JM&theme=github-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
+<!--
 ### :fire: Programming Languages :
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JatinMahajan&theme=shadow_green&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
