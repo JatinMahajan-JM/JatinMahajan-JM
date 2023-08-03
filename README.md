@@ -8,7 +8,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-JatinMahajan-JM&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JatinMahajan-JM&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **JatinMahajan-JM/JatinMahajan-JM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
