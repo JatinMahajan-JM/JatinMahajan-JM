@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently, I am actively engaged in multiple projects and preparing to seek new job opportunities soon.
+- 🔭 I'm currently engaged in multiple projects and preparing to seek new job opportunities soon.
 - 🌱 My ongoing learning journey involves delving deeper into Next.js, data structures, and algorithms.
 - 👯 I am enthusiastic about collaborating on full stack projects and contributing to open-source initiatives.
 - 💬 Feel free to ask me anything related to Javascript, React.js, Node.js, MongoDB, TypeScript, or Next.js.
