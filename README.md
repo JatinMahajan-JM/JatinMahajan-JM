@@ -8,8 +8,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JatinMahajan-JM&theme=github-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=JatinMahajan-JM&theme=github-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 ### :fire: Weekly Time Stats :
 
