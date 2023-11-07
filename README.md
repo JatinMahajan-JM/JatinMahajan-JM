@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I'm currently engaged in multiple projects and preparing to seek new job opportunities soon.
+- 🔭 I'm currently engaged in developing a theme and a reddit clone.
 - 🌱 My ongoing learning journey involves delving deeper into Next.js, data structures, and algorithms.
 - 👯 I am enthusiastic about collaborating on full stack projects and contributing to open-source initiatives.
 - 💬 Feel free to ask me anything related to Javascript, React.js, Node.js, MongoDB, TypeScript, or Next.js.
 - 📫 You can reach out to me at jatinmahajan.dev@gmail.com
+- I'm open to new job opportunities.
 
 ### :fire: My Stats :
 
