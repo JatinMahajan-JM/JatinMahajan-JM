@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently engaged in developing a theme and a reddit clone.
+- 🔭 I'm currently engaged in a project but open to new opportunities.
 - 🌱 My ongoing learning journey involves delving deeper into Next.js, data structures, and algorithms.
 - 👯 I am enthusiastic about collaborating on full stack projects and contributing to open-source initiatives.
 - 💬 Feel free to ask me anything related to Javascript, React.js, Node.js, MongoDB, TypeScript, or Next.js.
